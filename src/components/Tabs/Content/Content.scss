@@ -1,0 +1,13 @@
+.content {
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+}
+
+
+@media (min-width: 992px) {
+    .content {
+        width: 50%;
+        display: inline-block;
+    }
+}

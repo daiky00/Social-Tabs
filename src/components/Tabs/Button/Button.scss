@@ -1,0 +1,16 @@
+@import '../../../styles/variables';
+
+.button {
+    color: inherit;
+    background: transparent;
+    border: 2px solid $white;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem 0 4.8rem;
+}
+
+@media (max-width: 992px) {
+    .button {
+        margin: 1rem 0;
+    }
+}
