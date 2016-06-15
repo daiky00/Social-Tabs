@@ -4,7 +4,7 @@
 
 To get this repo install in your localhost do the following :octocat:
 ```
-> git clone https://github.com/daiky00/Youtube-API-with-ReactJS.git Youtube
+> git clone https://github.com/daiky00/Youtube-API-with-ReactJS.git social
 > cd social
 > npm install
 > npm start
